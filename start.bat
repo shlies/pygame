@@ -1,0 +1,1 @@
+H:\program\python\python.exe game.py

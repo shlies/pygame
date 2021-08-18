@@ -1,0 +1,1 @@
+pyinstaller -D pyhou0.3.1.py
